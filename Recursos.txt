@@ -1,0 +1,15 @@
+En una postulación que tuve con Amazon, me enviaron por email los siguientes recursos, se los comparto para quien quiera profundizar. (solo acomoden acomoden las URL para que les funcionen las ligas).
+
+Conceptos y Fundamentos -- Muy recomendado ver estos videos antes de tomar el ejercicio de código.
+Para Big O notation: www .youtube. com/watch?v=v4cd1O4zkGw Dynamic programming (DP): www .geeksforgeeks. org/dynamic-programming/ and www .youtube. com/watch?v=vYquumk4nWw Flood Fill algorithm concepts: www .geeksforgeeks. org/flood-fill-algorithm-implement-fill-paint/
+
+👉 Problemas prácticos
+www .hackerrank. com/challenges/tree-height-of-a-binary-tree www .hackerrank. com/challenges/tree-level-order-traversal www .hackerrank. com/challenges/balanced-brackets www .hackerrank. com/challenges/contacts www .hackerrank. com/challenges/find-the-running-median www .hackerrank. com/challenges/swap-nodes-algo
+
+---------------------------------------------------------------------------------------------------------
+https://www.youtube.com/@ChioCode/videos
+leetcode
+https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX
+https://www.youtube.com/watch?v=XKu_SEDAykw
+https://www.youtube.com/watch?v=1qw5ITr3k9E
+softwarecrafters .io/javascript/clean-code-javascript
